@@ -17,28 +17,28 @@
 SaborConecta es una plataforma web que permite a los usuarios gestionar, compartir y descubrir recetas de cocina en la nube. El sistema facilita la creación de perfiles, la subida de imágenes, la organización de recetas por categorías y la interacción social mediante favoritos. Está diseñado para ser escalable y seguro, integrando servicios cloud y una base de datos relacional para almacenar la información de usuarios y recetas.
 
 ### Vista de home
-![alt text](assets/image.png)
+![alt text](Assets/image.png)
 
 ### Vista de recetas
-![alt text](assets/image-1.png)
+![alt text](Assets/image-1.png)
 
 ### Vista de recetas por categoría
-![alt text](assets/image-7.png)
+![alt text](Assets/image-7.png)
 
 ### Vista de receta individual
-![alt text](assets/image-4.png)
+![alt text](Assets/image-4.png)
 
 ### Vista de mis recetas
-![alt text](assets/image-2.png)
+![alt text](Assets/image-2.png)
 
 ### Vista de crear receta
-![alt text](assets/image-3.png)
+![alt text](Assets/image-3.png)
 
 ### Vista recetas favoritas
-![alt text](assets/image-5.png)
+![alt text](Assets/image-5.png)
 
 ### Vista de perfil
-![alt text](assets/image-6.png)
+![alt text](Assets/image-6.png)
 
 ## 3. Arquitectura Usada
 
