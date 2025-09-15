@@ -1,4 +1,4 @@
-# GRUPO 19 - ANALISIS Y DISEÑO DE SISTEMAS 1
+# GRUPO 19 - SEMINARIO DE SISTEMAS I
 
 ## Práctica 2 - SaborConecta
 
