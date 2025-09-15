@@ -1,12 +1,12 @@
- yamilette_gonzalez
+ yamilette@example.com
  Contraseña: "demo123"
  Hash: $2a$10$BxrK4KwERdvTX0QHsxvok.oaLv.2nd0w33NQVmMjfiUIlgYQuL97e
 --------------------------------------------------------------------------------        
- carlos_lieja
+ carlos.lieja@example.com
  Contraseña: "carlos456"
  Hash: $2a$10$GNnPWHJtYp/Cuqzd6jhoCOBZHOAakhRX74xzH.Wrk/PxE0Zil7b7S
 --------------------------------------------------------------------------------        
- karen_melgarejo
+ karen.melgarejo@example.com
  Contraseña: "karen789"
  Hash: $2a$10$6d0LOIi.944oLAX00AvJ1u4Yb/9NwzaDFH6F7EXhNhzPmQzbk9eQu
 --------------------------------------------------------------------------------        
