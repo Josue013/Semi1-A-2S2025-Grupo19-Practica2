@@ -1,0 +1,15 @@
+ yamilette_gonzalez
+ Contraseña: "demo123"
+ Hash: $2a$10$BxrK4KwERdvTX0QHsxvok.oaLv.2nd0w33NQVmMjfiUIlgYQuL97e
+--------------------------------------------------------------------------------        
+ carlos_lieja
+ Contraseña: "carlos456"
+ Hash: $2a$10$GNnPWHJtYp/Cuqzd6jhoCOBZHOAakhRX74xzH.Wrk/PxE0Zil7b7S
+--------------------------------------------------------------------------------        
+ karen_melgarejo
+ Contraseña: "karen789"
+ Hash: $2a$10$6d0LOIi.944oLAX00AvJ1u4Yb/9NwzaDFH6F7EXhNhzPmQzbk9eQu
+--------------------------------------------------------------------------------        
+ bismarck.romero@example.com
+ Contraseña: "bismarck123"
+ Hash: $2a$10$7qXSI8CuANchzBYhuMIayeRzIzP0TxxIH8Y/M9XMUsLjfoPe6EphG

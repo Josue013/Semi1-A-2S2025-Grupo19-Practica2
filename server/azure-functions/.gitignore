@@ -1,0 +1,5 @@
+node_modules
+.env
+.funcignore
+host.json
+local.settings.json
