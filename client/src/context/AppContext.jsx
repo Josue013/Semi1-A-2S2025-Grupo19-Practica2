@@ -20,8 +20,8 @@ export const AppContextProvider = ({ children }) => {
 
   // URL PARA EXPRESS API (LOGIN/REGISTER)
   const API_URL_AUTH = isDevelopment
-    ? "http://172.185.42.175/"
-    : "http://172.185.42.175/";
+    ? "http://172.185.26.94/"
+    : "http://172.185.26.94/";
 
   const navigate = useNavigate();
   const [user, setUser] = useState(null);
