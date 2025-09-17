@@ -67,7 +67,7 @@ SaborConecta es una plataforma web que permite a los usuarios gestionar, compart
 ![alt text](./Assets/APIMANAGEMENT.jpg)
 
 
-## 4. Conlcusión comparativa de proveedores de servicios en la nube
+## 4. Comparativa de proveedores de servicios en la nube
 
 Al hacer una comparación entre los servicios de AWS y Azure, se nota una mayor complejidad en el lado de azure, siendo que este proveedor de servicios no es tan amigable con un nuevo usuario como AWS. 
 Una de las mayores ventajasde Azure, es su fácil integración con los servicios de Microsoft.
